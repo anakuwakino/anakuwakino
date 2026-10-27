@@ -1,4 +1,4 @@
-# anakuwakino-
+# anakuwakino
 Heyy, I'm Ana 
 
 Neuroscience student at Arizona State University, focused on EEG signal processing, neurofeedback, and AI-driven brain data analysis.
